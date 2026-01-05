@@ -14,6 +14,8 @@ I specialize in building predictive models and uncovering actionable insights fr
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ### 📊 GitHub Stats
 ![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavanAtluri1999&show_icons=true&theme=radical)
