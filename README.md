@@ -3,7 +3,7 @@
 
 I specialize in building predictive models and uncovering actionable insights from complex datasets. Passionate about applying AI to solve real-world business problems.
 
-- 🔭 **I’m currently working on:** [Mention a current project or "Advanced NLP techniques"]
+- 🔭 **I’m currently working on:**  "Advanced NLP techniques"
 - 🌱 **I’m currently learning:** Generative AI & MLOps
 - 👯 **I’m looking to collaborate on:** Open source data science projects
 - 💬 **Ask me about:** Python, SQL, Scikit-Learn, and Data Visualization
